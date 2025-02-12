@@ -1,0 +1,38 @@
+These are the development notes:
+
+Research:
+
+I have looked at games such as Incredibox & BeastBox (funny enough I made my name for my project BirdBox before even finding these).
+    - https://www.incredibox.com/demo/
+    - https://academy.allaboutbirds.org/features/beastbox/
+Though, looking at development tools as I looked at these websites there were errors in console. I was surprised by that, since they looked like they were working well.
+
+Explaining the materials:
+    Using what is required (svgs for icons, jpg for a background that I will create soon, MP4 files for audios) I do not think there is a need for additional kinds of files unless i decide to use png, but even then I would just do svg so I can later animate it. As for the code used, it is what is required (html, css, javascript).
+
+
+SPRINTS
+Normally how I work on projects as well...
+I do struggle to put a certain due date on myself, I tend to go by how many weeks I think I will take to finsh a task and have my plan be really flexible. Though, in this kind of work that may not be enough to explain since I am supposed to be doing proper project management. 
+
+Sprint 1:
+    Set Up: I normally have the first set up everything I need such as file structure with folders, the icons I want to use (created in illustrator), set up the grid, index.html, etc. This allows me to finish the project at a reasonable time and ensure I do not forget everything. (This may be more designer, but this helps me plan what to develop) I also plan on how I want the icons are going to move and overall how is everything going to work/look.
+    (Takes me about a day or two if I started late)
+
+Sprint 2:
+    HTML & CSS: After that, I start with the HTML & CSS so when I get into the functionality of it (javascript) I want to get this done quickly as well (1. I tend to find this part easy, 2. If I get this done, not rushed but quickly, I can really focus on how to make the actual 'Music Mixer' work)
+    (This takes a big portion of time, I want to say less then a couple weeks, but since the entire project is due on April 2nd, I don't want to rush myself, so I will say about 3 weeks tops of full review and finish creating my layout for JS to come in)
+
+Sprint 3:
+    JS and Final Touches: Then I dive into the new and harder material that will take me most time. This is where I will do the drag and drop, animations (other than basic css) and error correction using online validator. 
+
+    - https://validator.w3.org/ (the one Robert and Justin showed us last term)
+    At the end, I make final tweeks here and there, then find myself done with the project.
+    (This would be more of a time consuming part as well, especially since it is a new part we are doing from this term, I want to say a month as well just to pace myself, and since with all of this I am also designing) That will also let me 
+
+Again, I am not great at timelines, I find myself just working away and maybe I will get it done early. (only really for development related tasks).
+
+
+I really liked how BeastBox was made, it's simple yet feels like you are infront of a canvas able to add whatever your vision desires. I already had the idea of what I wanted and BeastBox some how ended up being really similar (a bit of an ego hit to my designer self since it seems like my idea is already been thought of). 
+
+
