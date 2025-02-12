@@ -1,0 +1,4 @@
+Materials: I do not have audio files yet, I did do icons on Adobe Illustrator (since that is what I can do quickly and easy) which is in the img folder, I also did a small sketch for the layout and background idea in the assets folder. (I took out the gitignore content that made it ignore the assets folder, I did not know if you could see it if the folder was ignored)
+I do not have social media, so i did not really look at pictures other than the websites I looked at (mentioned in DEV notes)
+
+There is not much to go off here, that I at least not have already mentioned in my DEV notes. Since I am doing this on my own I have my thoughts all together and how it will work together
